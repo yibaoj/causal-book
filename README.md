@@ -5,11 +5,9 @@ What causal inference tries to build is an interpreter of cause and effect
 instead of a direct predictor. 
 Causal inference is actively studied in many disciplines, 
 including statistics, computer science, epidemiology, economics, social science, and engineering. 
-Here are some really useful materials I found for beginners. Most of them are available on the Internet. 
+Here are some really useful material I found for beginners. Most of them are available on the Internet. 
 
 > This list will be continuingly updated. Feel free to contact me if you have better resources :)
-
----
 
 ## Textbooks by Statisticians and Economists 
 
@@ -27,8 +25,6 @@ These textbooks are written by prestigious scholars from statistics, economics a
 
 - **"Explanation in Causal Inference: Developments in Mediation and Interaction"** by Tyler J. VanderWeele. Tyler J. VanderWeele is a professor of epidemiology at the Harvard T.H. Chan School of Public Health. This book describes various developments in methodology on mediation and interaction to answer questions of distributions (or heterogeneity) and determinants (or mechanisms) of diseases in epidemiology. 
 
----
-
 ## Other books 
 
 - **"Causation, Prediction, and Search"** [[PDF](https://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/.g/scottd/fullbook.pdf)] by Peter Spirtes, Clark Glymour, and Richard Scheines. Peter Spirtes, Clark Glymour, and Richard Scheines are professors in the Department of Philosophy at Carnegie Mellon University. This book elucidates the graphical framework of causal interpretation in the context of statistical practice with intensive mathematics. 
@@ -38,8 +34,6 @@ These textbooks are written by prestigious scholars from statistics, economics a
 - **"STATS 361: Causal Inference"** [[PDF](https://web.stanford.edu/~swager/stats361.pdf)] by Stefan Wager. Stefan Wager is an associate professor of operations, information, and technology at the Stanford Graduate School of Business. He is one of the authors of causal forests and generalized random forests. STATS 361 is a graduate level class focusing on randomized and observational studies, doubly robust estimation, instrumental variables, graphical modeling, dynamic policies, etc. 
 
 - **"Causal Inference: the Mixtape"** by Scott Cunningham. Scott Cunningham is a professor of economics at Baylor University, who studies a wide variety of topics including mental healthcare, sex work and drug policy. This book popularizes non-experimental causal evaluation methods for practitioners with electronic books [[link](https://mixtape.scunning.com/)] and coding instructions for both the R and the Stata.  
-
----
 
 ## Online Tutorials 
 
@@ -51,9 +45,7 @@ These textbooks are written by prestigious scholars from statistics, economics a
 
 - **"Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber"** [[link](https://causal-machine-learning.github.io/kdd2021-tutorial/)] presented by researchers from Uber, Facebook, Microsoft, and Toyota Research Institute, at ACM SIGKDD 2021 International Conference on Knowledge Discovery and Data Mining. 
 
---- 
-
-## Other Materials 
+## Other Material 
 
 - **"An index of causality algorithms"** [[link](https://github.com/rguo12/awesome-causality-algorithms)] surveyed by Ruocheng Guo hosted on GitHub. This list is a comprehensive collect of open-source toolboxes and academic articles, covering topics of causal estimations of individuals and populations, causal discovery, out-of-distribution generalization, offline policy evaluation, and counterfactual reinforcement learning.  
 
