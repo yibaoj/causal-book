@@ -13,7 +13,7 @@ Here are some really useful material I found for beginners. Most of them are ava
 
 These textbooks are written by prestigious scholars from statistics, economics and other fields with prominent causal applications. Some books are technical and theoretical for professional use, while others provide accessible and intuitive introductions on causality aimed at elementary readers. 
 
-- **"Causality: Models, Reasoning, and Inference"** by Judea Pearl. Judea Pearl is a professor of computer science and statistics at the University of California, Los Angeles, who received ACM Turing Award in 2011 "for fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning". He presents a comprehensive theory of causality, known as causal diagrams or causal graphs, to unify probabilistic, counterfactual, and structural approaches of causation. 
+- **"Causality: Models, Reasoning, and Inference"** by Judea Pearl. Judea Pearl is a professor of computer science and statistics at the University of California, Los Angeles, who received ACM Turing Award in 2011 "for fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning". He presents a comprehensive theory of causality, known as causal diagrams or causal graphs, to unify probabilistic, counterfactual, and structural approaches of causation. In 2018, Judea Pearl and the writer Dana Mackenzie published a nonfiction book titled **"The Book of Why: The New Science of Cause and Effect"** for a general audience. 
 
 - **"Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction"** [[PDF](http://library.fa.ru/files/Imbens.pdf)] by Guido W. Imbens and Donald B. Rubin. Gudio W. Imbens is a professor at Stanford University, who was awarded half of the Nobel Memorial Prize in Economic Sciences jointly with Joshua D. Angrist "for their methodological contributions to the analysis of causal relationships" from natural experiments, such as the instrumental variable and regression discontinuity designs. Donald B. Rubin is an emeritus professor at Harvard University, who proposed the well-known Rubin causal model based on the framework of potential outcomes. This book starts with the notion of potential outcomes, and is organized based on distinguished assignment mechanisms. 
   
@@ -44,6 +44,8 @@ These textbooks are written by prestigious scholars from statistics, economics a
 - **"Tutorial on Causal Inference and Counterfactual Reasoning"** [[link](https://causalinference.gitlab.io/kdd-tutorial/)] presented by Amit Sharma and Emre Kiciman from Microsoft Research, at ACM SIGKDD 2018 International Conference on Knowledge Discovery and Data Mining, London, UK.
 
 - **"Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber"** [[link](https://causal-machine-learning.github.io/kdd2021-tutorial/)] presented by researchers from Uber, Facebook, Microsoft, and Toyota Research Institute, at ACM SIGKDD 2021 International Conference on Knowledge Discovery and Data Mining. 
+
+- **"Uplift Modeling: From Causal Inference to Personalization"** [[link](https://booking.ai/uplift-modeling-f9759e3fb51e)] by Irene Teinemaa, Javier Albert, and Dima Goldenberg from Booking.com, at 30th The Web Conference 2021.
 
 ## Other Material 
 
