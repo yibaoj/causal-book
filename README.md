@@ -35,6 +35,8 @@ These textbooks are written by prestigious scholars from statistics, economics a
 
 - **"Causal Inference: the Mixtape"** by Scott Cunningham. Scott Cunningham is a professor of economics at Baylor University, who studies a wide variety of topics including mental healthcare, sex work and drug policy. This book popularizes non-experimental causal evaluation methods for practitioners with electronic books [[link](https://mixtape.scunning.com/)] and coding instructions for both the R and the Stata.  
 
+- **"Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"** by Ron Kohavi, Diane Tang, and Ya Xu. They are leading data scientists at AirBnb, Google, and LinkedIn. This book provides practical guides for students and industry professionals on accelerating trustworthy online controlled experiments. The authors share examples, pitfalls, and advice for elementary experiments, plus deeper dives into advanced topics like observational causal studies and long-term treatment effects.    
+
 ## Online Tutorials 
 
 - **"Machine Learning & Causal Inference: A Short Course"** [[link](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)] by Susan Athey, Jann Spiess, and Stefan Wager. They are professors working at the Stanford Graduate School of Business. This course is a series of videos focusing on machine learning applications to measure heterogeneous impact of interventions. 
