@@ -25,6 +25,9 @@ These textbooks are written by prestigious scholars from statistics, economics a
 
 - **"Explanation in Causal Inference: Developments in Mediation and Interaction"** by Tyler J. VanderWeele. Tyler J. VanderWeele is a professor of epidemiology at the Harvard T.H. Chan School of Public Health. This book describes various developments in methodology on mediation and interaction to answer questions of distributions (or heterogeneity) and determinants (or mechanisms) of diseases in epidemiology. 
 
+- **"A First Course in Causal Inference"** by Peng Ding. Peng Ding is an assistant professor at University of California Berkeley. The book is a summarization of lecture notes, 
+which only require basic knowledge of probability theory, statistical inference, and linear and logistic regressions.
+
 ## Other books 
 
 - **"Causation, Prediction, and Search"** [[PDF](https://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/.g/scottd/fullbook.pdf)] by Peter Spirtes, Clark Glymour, and Richard Scheines. Peter Spirtes, Clark Glymour, and Richard Scheines are professors in the Department of Philosophy at Carnegie Mellon University. This book elucidates the graphical framework of causal interpretation in the context of statistical practice with intensive mathematics. 
